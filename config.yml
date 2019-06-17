@@ -1,0 +1,17 @@
+BlockID:
+  world: 137
+  world_nether: 133
+  world_the_end: 46
+#不同世界物品的ID
+DisplayName:
+  world: "&e&l命令方块"
+  world_nether: "&a&l绿宝石块"
+  world_the_end: "&b&lTNT"
+#不同世界物品的展示名
+world:
+  - world
+  - world_nether
+  - world_the_end
+#生效的世界
+ReloadOK: "&a&l重置成功"
+NotPerm: "&c&l你没有权限"

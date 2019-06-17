@@ -1,0 +1,5 @@
+name: WorldHat
+main: com.github.qianniancc.WorldHat
+version: 1.0
+commands:
+  whreload:
